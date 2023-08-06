@@ -15,8 +15,8 @@
 
 <p align="left">
   <a href="https://github.com/Sverda/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Sverda&show_icons=true&theme=github_dark_dimmed&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sverda&theme=dark&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Sverda&show_icons=true&theme=github_dark" />
+    <img width="49.5%" src="https://streak-stats.demolab.com?user=Sverda&theme=github-dark-blue" />
   </a>
 </p>
 <br>
